@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hudahajira744](https://medium.com/@hudahajira744)
 
-- 💬 Ask me about **JS,React,postman, giHub , HTML , CSS, EXPRESS JS, NODE JS.**
+- 💬 Ask me about **JS,React,postman, GitHub , HTML , CSS, EXPRESS JS, NODE JS.**
 
-- 📫 How to reach me **huda.code@gmail.com**
+- 📫 How to reach me ✉ **huda.code@gmail.com**
 
 - ⚡ Fun fact **I am involved in a lot of organizational and entrepreneurial work in organizations related to Startups, hackathons, fests and workshops and helped in building many communities.**
 
