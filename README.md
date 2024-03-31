@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hudahajira744](https://medium.com/@hudahajira744)
 
-- 💬 Ask me about **JS, React,postman, GitHub , HTML , CSS, EXPRESS JS, NODE JS.**
+- 💬 Ask me about **JS, React, postman, GitHub, HTML, CSS, EXPRESS JS, NODE JS.**
 
 - 📫 How to reach me ✉ **huda.code@gmail.com**
 
