@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
+- 🌱 I’m currently learning **Next.JS**
+
 - 📝 I regularly write articles on [https://medium.com/@hudahajira744](https://medium.com/@hudahajira744)
 
 - 💬 Ask me about **JS, React, postman, GitHub, HTML, CSS, EXPRESS JS, NODE JS.**
