@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hudahajira" target="blank"><img src="https://img.shields.io/twitter/follow/hudahajira?logo=twitter&style=for-the-badge" alt="hudahajira" /></a> </p>
 
-- 🔭 I’m currently working on **100 days challenge (building a learning platform)**
+- 🔭 I’m currently building **learning-focused products and contributing to meaningful open source projects.**
 
 - 🌱 I’m currently learning **Different stack**
 
