@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **contributing to meaningful open source projects.**
 
-- 🌱 I’m actively learning **Different stack** and looking for job opportunities around US.
+- 🌱 I’m actively learning **different stack** and looking for job opportunities around US.
 
 - 📝 I regularly write articles on [https://medium.com/@hudahajira744](https://medium.com/@hudahajira744)
 
