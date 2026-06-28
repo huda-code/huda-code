@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hudahajira" target="blank"><img src="https://img.shields.io/twitter/follow/hudahajira?logo=twitter&style=for-the-badge" alt="hudahajira" /></a> </p>
 
-- 🔭 I’m currently building **learning-focused products and contributing to meaningful open source projects.**
+- 🔭 I’m currently **contributing to meaningful open source projects.**
 
-- 🌱 I’m currently learning **Different stack** and looking for job opportunities around US.
+- 🌱 I’m also actively learning **Different stack** and looking for job opportunities around US.
 
 - 📝 I regularly write articles on [https://medium.com/@hudahajira744](https://medium.com/@hudahajira744)
 
