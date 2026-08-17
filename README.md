@@ -1,35 +1,88 @@
-<h1 align="center">Hi 👋, I'm Huda Hajira</h1>
-<h3 align="center">A Full Stack developer with a Cybersecurity major</h3>
+<h1 align="center">Hi, I'm Huda Hajira 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huda-code&label=Profile%20views&color=0e75b6&style=flat" alt="huda-code" /> </p>
+<h3 align="center">Electronics & Communications Engineer | Cybersecurity | Embedded Systems | Secure Assistive Robotics</h3>
 
-<p align="left"> <a href="https://twitter.com/hudahajira" target="blank"><img src="https://img.shields.io/twitter/follow/hudahajira?logo=twitter&style=for-the-badge" alt="hudahajira" /></a> </p>
-
-- 🔭 I’m currently **contributing to meaningful open source projects.**
-
-- 🌱 I’m actively learning **different stack** and looking for job opportunities around US.
-
-- 📝 I regularly write articles on [https://medium.com/@hudahajira744](https://medium.com/@hudahajira744)
-
-- 💬 Ask me about **JS, React, postman, GitHub, HTML, CSS, EXPRESS JS, NODE JS.**
-
-- 📫 How to reach me ✉ **code.huda@gmail.com**
-
-- ⚡ Fun fact **I am involved in a lot of organizational and entrepreneurial work in organizations related to Startups, hackathons, fests and workshops and helped in building many communities.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hudahajira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hudahajira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hudahajira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hudahajira" height="30" width="40" /></a>
-<a href="https://fb.com/hudahajira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hudahajira" height="30" width="40" /></a>
-<a href="https://instagram.com/huda.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huda.code" height="30" width="40" /></a>
-<a href="https://medium.com/hudahajira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hudahajira" height="30" width="40" /></a>
-<a href="https://discord.gg/hudahajira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hudahajira" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hudahajira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:code.huda@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@hudahajira744"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/hudahajira"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/huda.code/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huda-code&label=Profile%20views&color=0e75b6&style=flat" alt="Huda Hajira's profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huda-code&show_icons=true&locale=en&layout=compact" alt="huda-code" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huda-code&" alt="huda-code" /></p>
+* 🎓 Electronics & Communications Engineer with an M.S. in Cybersecurity
+* 📍 Based in Chicago and open to relocation for the right robotics or R&D opportunity
+* 🦾 Researching and developing an early-stage **neuro-bionic arm** concept using EMG–IMU intent recognition and safety-aware embedded control
+* 🔐 Interested in detecting uncertain, faulty, out-of-distribution, or manipulated sensor inputs before they produce unsafe physical movement
+* 🔧 Hands-on experience with Arduino, NodeMCU, Raspberry Pi, sensors, IoT systems, electronic prototyping, equipment testing, and troubleshooting
+* 🌱 Active open-source contributor working across AI tooling, secure networking, developer tools, and technical documentation
+* 🎤 Speaker at TEDx, EDUCAUSE, DevOpsDays, and PG Data Chicago
+* 💼 Seeking opportunities in embedded systems, electronics testing, robotics research, systems integration, IoT, and cyber-physical security
+
+## Current Focus
+
+* Reliable multimodal sensing with EMG and IMU data
+* Uncertainty-aware intent recognition and safe robotic control
+* Embedded hardware integration, testing, and fault detection
+* Security for AI-enabled and cyber-physical systems
+* Open-source engineering and community collaboration
+
+## Research Interests
+
+* Assistive robotics and myoelectric control
+* Embedded systems and intelligent sensing
+* AI security and responsible AI
+* Secure retrieval-augmented generation systems
+* Machine-learning-based phishing detection
+* Critical-infrastructure and cyber-physical security
+
+## Languages and Tools
+
+### Hardware & Embedded Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square\&logo=arduino\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
+![ESP8266](https://img.shields.io/badge/NodeMCU%20%2F%20ESP8266-E7352C?style=flat-square\&logo=espressif\&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20%26%20Sensors-4A90E2?style=flat-square)
+![Electronics](https://img.shields.io/badge/Electronic%20Prototyping-6C757D?style=flat-square)
+
+### Programming & Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+### Development & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+
+## Open to Collaboration
+
+I enjoy collaborating on open-source projects involving embedded systems, robotics, AI security, IoT, developer tooling, and technology that solves practical human problems. If you are building in any of these areas, feel free to reach out.
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huda-code&show_icons=true&hide_border=true&theme=transparent" alt="Huda Hajira's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-code&layout=compact&hide_border=true&theme=transparent" alt="Huda Hajira's most-used languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable technology at the intersection of electronics, intelligent systems, and security.</i>
+</p>
