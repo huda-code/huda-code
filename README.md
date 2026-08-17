@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Huda Hajira 👋</h1>
+<h1 align="center">Hi 👋, I'm Huda Hajira</h1>
 
-<h3 align="center">Electronics & Communications Engineer | Cybersecurity | Embedded Systems | Open Source</h3>
+<h3 align="center">Electronics and Communications Engineer | Cybersecurity | Embedded Systems | Open Source</h3>
 
 <p align="center">
-  Building toward secure assistive robotics and dependable AI-enabled systems
+  Building reliable technology across electronics, software, robotics, and security
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=huda-code&label=Profile%20views&color=0e75b6&style=flat" alt="huda-code profile views" />
 </p>
 
 <p align="center">
@@ -24,79 +28,43 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huda-code&label=Profile%20views&color=0e75b6&style=flat" alt="Huda Hajira profile views" />
-</p>
-
 ## About Me
 
-* 🎓 Electronics & Communications Engineer with an M.S. in Cybersecurity
-* 📍 Based in Chicago and open to relocation for the right engineering or R&D opportunity
+* 🎓 Electronics and Communications Engineer with an M.S. in Cybersecurity
+* 📍 Based in Chicago and open to relocation for the right engineering or research opportunity
 * 🔧 Experienced with Arduino, NodeMCU, Raspberry Pi, sensors, IoT systems, electronic prototyping, equipment testing, and troubleshooting
-* 🌱 Active open-source contributor across cloud tooling, secure networking, AI and agent tooling, developer experience, testing, and technical documentation
-* 🦾 Researching an early-stage brain-controlled neuro-bionic arm using EEG, EMG, and IMU signals with a separate safety-control layer
-* 🔐 Interested in preventing uncertain, faulty, manipulated, or unfamiliar sensor inputs from producing unsafe physical movement
+* 🌱 Active open-source contributor working across cloud tools, secure networking, software testing, developer tools, and technical documentation
+* 🤖 Building AI development tools and agents that help teams create, test, and improve software applications
+* 🦾 Researching safe brain-controlled assistive robotics using EEG, EMG, and IMU signals
+* 🔐 Interested in embedded security, connected devices, and safe physical systems
 * 🎤 Speaker at TEDx, EDUCAUSE, DevOpsDays, and PG Data Chicago
 * 💼 Seeking opportunities in embedded systems, electronics testing, robotics research, systems integration, IoT, and cyber-physical security
 
 ## Current Focus
 
-* Secure assistive robotics and brain-computer interfaces
-* EEG, EMG, and IMU signal processing
-* Uncertainty-aware intent recognition and safe robotic control
-* Embedded hardware integration, testing, and fault detection
-* AI security and cyber-physical system security
-* Open-source cloud, networking, and developer tooling
-
-## Selected Open-Source Work
-
-* **[Floci](https://github.com/floci-io/floci-ui)** — Contributing to cloud and serverless tooling, including AWS Lambda, Azure Functions, and Google Cloud Functions adapters, invocation workflows, validation, and automated testing
-* **[Pangolin](https://github.com/fosrl/pangolin)** — Contributing to secure networking infrastructure, database consistency, authentication, CLI behavior, and reliability improvements
-* **[LiteLLM](https://github.com/BerriAI/litellm)** — Contributing around LLM tooling and dependable AI application infrastructure
-* **[OSPO Guide](https://github.com/DSACMS/ospo-guide)** — Improving open-source documentation, usability, and plain-language technical guidance
-* **AI and agent tooling** — Working on tests, integrations, context efficiency, developer workflows, and documentation for AI-enabled systems
-
-My open-source work allows me to develop experience across the complete engineering stack—from interfaces and cloud services to secure networking, testing, documentation, and AI systems.
-
-## Neuro-Bionic Arm Research
-
-I am developing the research direction for a safety-focused neuro-bionic arm.
-
-The long-term goal is to recognize a limited set of movement intentions from brain activity and translate them into safe robotic actions.
-
-The project will begin with EMG and IMU signals before gradually introducing EEG-based brain control using public datasets and simulation.
-
-The system is being designed around one central principle:
-
-> The model may propose a movement, but a separate safety layer must approve it before the arm moves.
-
-Initial commands may include:
-
-* Rest
-* Open
-* Close
-* Stop
-
-The safety layer will evaluate signal quality, sensor agreement, model uncertainty, missing data, unfamiliar inputs, and hardware limits before approving movement.
+* Assistive robotics and brain-computer interfaces
+* Embedded hardware development and testing
+* Reliable biosignal and sensor processing
+* Security for connected devices and physical systems
+* AI development tools for building software applications
+* Open-source engineering and community collaboration
 
 ## Research Interests
 
 * Brain-computer interfaces and assistive robotics
-* Myoelectric control and multimodal biosignal processing
 * Embedded systems and intelligent sensing
-* Uncertainty detection and safe robotic control
-* AI security and responsible AI
-* Secure retrieval-augmented generation systems
+* Safe robotic control
+* AI and cyber-physical security
 * Machine-learning-based phishing detection
-* Critical-infrastructure and cyber-physical security
+* Critical-infrastructure security
 
 ## Research and Speaking
 
-* Research involving VPN resistance to website-fingerprinting attacks
-* Machine-learning and NLP approaches for phishing detection
-* Security research involving critical infrastructure and state-sponsored threats
+* Research on VPN resistance to website-fingerprinting attacks
+* Machine-learning and language-based approaches to phishing detection
+* Research on threats to critical infrastructure
 * Speaker at TEDx, EDUCAUSE, DevOpsDays, and PG Data Chicago
-* Open-source contributor and community builder supporting technical and founder communities
+* Community builder supporting students, founders, and open-source contributors
 
 ## Languages and Tools
 
@@ -108,7 +76,7 @@ The safety layer will evaluate signal quality, sensor agreement, model uncertain
 ![IoT](https://img.shields.io/badge/IoT%20%26%20Sensors-4A90E2?style=flat-square)
 ![Electronics](https://img.shields.io/badge/Electronic%20Prototyping-6C757D?style=flat-square)
 
-### Programming and Engineering
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
@@ -132,30 +100,22 @@ The safety layer will evaluate signal quality, sensor agreement, model uncertain
 
 ## Open to Collaboration
 
-I welcome collaboration on open-source projects involving:
+I am open to collaborating on embedded systems, robotics, connected devices, cybersecurity, AI development tools, and open-source projects that solve practical problems.
 
-* Embedded systems and robotics
-* Brain-computer interfaces
-* AI and cyber-physical security
-* Secure networking and cloud tooling
-* LLM and agent infrastructure
-* Developer tools and technical documentation
-
-If you are building in any of these areas, feel free to reach out.
+If you are working in any of these areas, feel free to reach out.
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huda-code&theme=github_dark" alt="Huda Hajira GitHub contribution summary" width="100%" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huda-code&show_icons=true&locale=en&layout=compact" alt="huda-code most-used languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huda-code&theme=github_dark" alt="Huda Hajira GitHub statistics" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huda-code&theme=github_dark" alt="Huda Hajira most-used languages" width="48%" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huda-code&" alt="huda-code contribution streak" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building reliable technology at the intersection of electronics, intelligent systems, open source, and security.</i>
+  <i>Building reliable technology across electronics, software, robotics, and security.</i>
 </p>
