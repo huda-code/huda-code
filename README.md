@@ -102,6 +102,6 @@
 
 ## GitHub Activity
 
-<p align="center"> <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=huda-code&" alt="Huda Hajira contribution streak" /> &nbsp; <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huda-code&layout=compact&langs_count=8" alt="Huda Hajira most-used languages" /> </p>
+<p align="center"> <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=huda-code&" alt="Huda Hajira contribution streak" /> 
 
 <p align="center"> <i>Building reliable technology across electronics, software, robotics, and security.</i> </p>
