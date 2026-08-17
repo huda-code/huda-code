@@ -1,3 +1,6 @@
+<p align="left"> <a href="https://twitter.com/hudahajira" target="blank"><img src="https://img.shields.io/twitter/follow/hudahajira?logo=twitter&style=for-the-badge" alt="hudahajira" /></a> </p>
+
+
 <h1 align="center">Hi 👋, I'm Huda Hajira</h1>
 
 <h3 align="center">Electronics and Communications Engineer | Cybersecurity | Embedded Systems | Open Source</h3>
@@ -6,9 +9,7 @@
   Building reliable technology across electronics, software, robotics, and security
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=huda-code&label=Profile%20views&color=0e75b6&style=flat" alt="huda-code profile views" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hudahajira/">
@@ -106,9 +107,7 @@ If you are working in any of these areas, feel free to reach out.
 
 ## GitHub Activity
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huda-code&show_icons=true&locale=en&layout=compact" alt="huda-code most-used languages" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huda-code&show_icons=true&locale=en&layout=compact" alt="huda-code" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huda-code&" alt="huda-code contribution streak" />
